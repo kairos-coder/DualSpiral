@@ -1,0 +1,51 @@
+{
+    "current_generation": 0,
+    "base_code_units_per_generation": 1,
+    "base_spiral_growth_factor": 1.0,
+    "base_complexity_bias": 0.5,
+    "quality_threshold": 0.7,
+
+    "apollo_pulse_interval": 2.618,  
+    "kairos_pulse_interval": 0.618, 
+    "aion_pulse_interval": 1.047,  
+    "kronos_pulse_interval": 1.618,
+
+    "erebus_pulse_interval": 1.618,  
+    "nyx_pulse_interval": 0.955,    
+    "tartarus_pulse_interval": 0.618, 
+
+    "mnemo_archive_path": "mnemo_archive/",
+    "aion_output_path": "aion_output/",
+    "kairos_raw_path": "kairos_raw_output/",
+    "kairos_processed_path": "kairos_processed_output/",
+    "lethe_graveyard_path": "lethe_graveyard/",
+    "lethian_archive_path": "lethian_archive/",
+    "lethe_memory_window_days": 1,
+
+    "PHI": 1.6180339887,
+    "PHI_INV": 0.6180339887,
+
+    "base_erebus_chaos_intensity": 0.005,
+    "max_erebus_chaos_intensity": 0.5,
+    "erebus_intensity_growth_factor": 0.1,
+    "base_erebus_deletion_chance": 0.05,
+    "max_erebus_deletion_chance": 0.3,
+
+    "base_nyx_obscurity_chance": 0.005,
+    "max_nyx_obscurity_chance": 0.2,
+    "nyx_obscurity_growth_factor": 0.1,
+    "nyx_recovery_chance": 0.1,
+    "nyx_graveyard_path": "nyx_graveyard/",
+
+    "base_tartarus_decay_window_seconds": 3600.0,
+    "min_tartarus_decay_window_seconds": 300.0,
+    "tartarus_decay_shrink_factor": 0.1,
+    "tartarus_abyss_path": "tartarus_abyss/",
+
+    "current_spiral_growth_factor": 1.0,
+    "current_complexity_bias": 0.5,
+    "current_erebus_chaos_intensity": 0.005,
+    "current_erebus_deletion_chance": 0.05,
+    "current_nyx_obscurity_chance": 0.005,
+    "current_tartarus_decay_window_seconds": 3600.0
+}
